@@ -47,7 +47,7 @@
     "tweetnacl": "^1.0.3",
     "update-electron-app": "^2.0.1",
     "wrtc": "^0.4.6",
-    "ws": "^7.4.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
